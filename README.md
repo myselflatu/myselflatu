@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ronit, a passionate full stack developer.
+I'm ronit, a self-taught full stack developer.
 
 # 💻 Tech Stack:
 
